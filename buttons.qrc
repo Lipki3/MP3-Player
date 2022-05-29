@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/">
+        <file>buttons/pause.png</file>
+        <file>buttons/play.png</file>
+        <file>buttons/plus.png</file>
+        <file>buttons/skip-next.png</file>
+        <file>buttons/skip-previous.png</file>
+        <file>buttons/stop.png</file>
+        <file>buttons/left.png</file>
+        <file>buttons/pause2.png</file>
+        <file>buttons/play2.png</file>
+        <file>buttons/plus2.png</file>
+        <file>buttons/right.png</file>
+        <file>buttons/nazad.png</file>
+        <file>buttons/vpered.png</file>
+        <file>buttons/zvuk_of.png</file>
+        <file>buttons/zvuk_on.png</file>
+        <file>buttons/fon1.png</file>
+        <file>buttons/fon2.png</file>
+    </qresource>
+</RCC>
